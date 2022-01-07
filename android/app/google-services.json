@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222810145001",
+    "project_id": "fir-with-otp-and-cloud",
+    "storage_bucket": "fir-with-otp-and-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222810145001:android:9960de8af157d4bb7e7078",
+        "android_client_info": {
+          "package_name": "com.example.firebaseotpwithcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222810145001-7abn4k1ghti1au5nk6fgk0ko92g9hb8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseotpwithcloud",
+            "certificate_hash": "3c5125f461d200021c71078784a2b63f528b32e5"
+          }
+        },
+        {
+          "client_id": "222810145001-3ovktds0ugvuo96f4o18tnkk0c5s529b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuejDF_7SSvIypqEczZJraC15dddb9DF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222810145001-3ovktds0ugvuo96f4o18tnkk0c5s529b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
